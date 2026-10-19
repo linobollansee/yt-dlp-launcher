@@ -1,4 +1,4 @@
-# yt-dlp-loop
+# yt-dlp-launcher
 
 A lightweight Windows batch script for repeatedly downloading videos using [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
